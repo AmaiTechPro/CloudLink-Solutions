@@ -1,0 +1,37 @@
+#mainloc{
+display: flex;
+text-align: center;
+background-color: chartreuse;
+width: 100%;
+height: 25px;
+padding: 5px;
+
+
+
+}
+
+
+.loc{
+
+margin-left: 150px;
+
+}
+
+footer{
+background-color: cyan;
+width: 100%;
+height: 40px;
+text-align: center;
+padding-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+

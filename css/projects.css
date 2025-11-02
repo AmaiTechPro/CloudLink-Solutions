@@ -1,0 +1,55 @@
+
+#mainpro{
+display: flex;
+text-align: center;
+background-color: chartreuse;
+width: 100%;
+height: 25px;
+padding: 5px;
+
+}
+
+.pro{
+
+
+    margin-left: 150px;
+}
+
+
+
+footer{
+background-color: cyan;
+width: 100%;
+height: 40px;
+text-align: center;
+padding-top: 15px;
+}
+
+#projects{
+
+text-shadow: 2px 2px 2px blue;
+font-size: 40px;
+font-weight: bolder;
+
+
+
+}
+
+#projects:hover{
+color: chartreuse;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

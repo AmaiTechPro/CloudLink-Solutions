@@ -1,0 +1,82 @@
+#coreservice{
+display: flex;
+margin-left: 20px;
+}
+
+#service{
+text-shadow: 2px 2px 2px blue;
+
+
+
+}
+
+.ocs{
+text-align: center;
+
+}
+
+#mainabo{
+display: flex;
+text-align: center;
+background-color: chartreuse;
+width: 100%;
+height: 25px;
+padding: 5px;
+
+
+}
+
+.abo{
+margin-left: 150px;
+
+}
+
+
+footer{
+background-color: cyan;
+width: 100%;
+height: 40px;
+text-align: center;
+padding-top: 15px;
+}
+
+#cserv{
+width: 25%;
+    background-color: blue;
+}
+
+#nserv{
+width: 25%;
+    background-color: antiquewhite;
+}
+
+
+#cyserv{
+width: 25%;
+background-color: chartreuse;
+
+}
+
+#iserv{
+width: 25%;
+
+    background-color: cyan;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
