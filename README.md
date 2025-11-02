@@ -59,7 +59,7 @@ CloudLink Solutions — Nairobi, Kenya 🇰🇪
 
 Brian David Amai
 
-🌐 [GitHub Profile]
+🌐 [GitHub Profile]{https://github.com/AmaiTechPro}
 
 📧 amaibrian2@gmail.com
 
