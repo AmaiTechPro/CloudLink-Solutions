@@ -7,18 +7,65 @@ background-color: chartreuse;
 width: 100%;
 height: 25px;
 padding: 5px;
-
-
-
+flex-wrap: wrap;
+justify-content: space-between;
+flex-wrap: wrap;
 
 
 }
 
-.con{
+@media (max-width:768px){
+#mainabo{
+flex-direction: column;
+text-align: center;
+width: 100%;
+padding: 10px 0;
+}
 
-margin-left: 170px;
+#maincar{
+flex-direction: column;
+text-align: center;
+width: 100%;
+padding: 10px 0;
+}
+
+#maincon{
+flex-direction: column;
+text-align: center;
+width: 100%;
+padding: 10px 0;
+}
+
+#mainind{
+flex-direction: column;
+text-align: center;
+width: 100%;
+padding: 10px 0;
+}
+
+#mainloc{
+flex-direction: column;
+text-align: center;
+width: 100%;
+padding: 10px 0;
+}
+
+#mainpro{
+flex-direction: column;
+text-align: center;
+width: 100%;
+padding: 10px 0;
+}
+
+#mainser{
+flex-direction: column;
+text-align: center;
+width: 100%;
+padding: 10px 0;
+}
 
 }
+
 
 
 footer{
